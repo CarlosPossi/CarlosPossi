@@ -84,9 +84,17 @@
 <br>
 
 </div>
+<br>
+<div align="center">
+  
+![hacker (1)](https://github.com/user-attachments/assets/f0ac41b8-b2c3-4eff-b3f3-30d08ebb4336)
+</div>
 
 <div align="center">
   
 ![github-header-image (2)](https://github.com/user-attachments/assets/c0721a50-0f42-4765-882e-de2171f5e6b7)
 
 </div>
+
+
+
