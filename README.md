@@ -60,6 +60,8 @@
 
 <div align="left"> 
 
+<img align="left"  height="80" width="80" src=https://github.com/user-attachments/assets/8000676d-b798-4a35-b70d-4f6b581b0064>
+
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/48ca2643-f56b-4ff1-9361-7012132e09eb">
