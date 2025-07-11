@@ -35,43 +35,37 @@
 </div>
 
 ## Minhas skills:
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/745858f2-6a13-46ce-a3d7-44e9c9cfc5a3">
-
-<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/a7f59e50-b4b6-4445-9052-ed582cdb690c">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/48ca2643-f56b-4ff1-9361-7012132e09eb">
-
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" alt="c logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="70" alt="arduino logo"  />
 </div>
 
 <br>
 <br> 
 <br>
-<br>
-<br>
-<br> 
+
 
 
 <h2 align="left"> Estudando no momento: </h2>
 
 
-<div align="left"> 
-
-<img align="left"  height="80" width="80" src=https://github.com/user-attachments/assets/8000676d-b798-4a35-b70d-4f6b581b0064>
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/48ca2643-f56b-4ff1-9361-7012132e09eb">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/2c93c3f7-27e0-4318-b7e0-f4e1f2717ad4">
-
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
 </div>
+
 <div align="center">
   
 <br>
@@ -97,6 +91,7 @@
 ![github-header-image (2)](https://github.com/user-attachments/assets/c0721a50-0f42-4765-882e-de2171f5e6b7)
 
 </div>
+
 
 
 
